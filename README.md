@@ -13,7 +13,7 @@ Run the notebook end-to-end and it will:
 ## Quickstart
 
 1. Clone this repo.
-2. Download `best_model.pt` from the [Releases](../../releases) page and place it at `checkpoints/best_model.pt`.
+2. Download `best_model.pt` from the [Releases](checkpoints) page and place it at `checkpoints/best_model.pt`.
 3. Open `footpath_damage_segmentation.ipynb` — in [Colab](https://colab.research.google.com/) or locally with Jupyter — and run all cells.
 
 That's it. No dataset or training setup needed just to get predictions.
